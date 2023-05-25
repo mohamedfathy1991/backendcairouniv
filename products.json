@@ -1,0 +1,11 @@
+[
+{
+  "name": "tv",
+  "price": "4000",
+  "category": "tv"
+},
+{
+  "name": "tel",
+  "price": "3000",
+  "category": "mobil"
+}]
